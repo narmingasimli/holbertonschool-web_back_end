@@ -1,0 +1,2 @@
+// Create DB my_db
+use my_db;
